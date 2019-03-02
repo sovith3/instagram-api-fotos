@@ -1,0 +1,17 @@
+{
+    "name": "instagram-api-localhost",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server/server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^2.6.1",
+        "express": "^4.16.4",
+        "instagram-node": "^0.5.8"
+    }
+}
